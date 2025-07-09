@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
-[./assist/preview.png](https://attendancesystem485.netlify.app)
+[![Website Preview](./assets/preview.png)](https://attendancesystem485.netlify.app)
 
 ## Development server
 
